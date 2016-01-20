@@ -2,27 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b50779fd-2d37-46ca-ae4b-faee0c20a3ef" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/capability.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/partner/adview.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/partner/care.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/partner/ml.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/partner/tpy.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/partner/wjx.jpg" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/qrcode.jpg" afterPath="$PROJECT_DIR$/img/qrcode.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/slides/banner-jobs.jpg" afterPath="$PROJECT_DIR$/img/slides/banner-jobs.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/about.html" afterPath="$PROJECT_DIR$/about.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/buy.html" afterPath="$PROJECT_DIR$/buy.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/contact.html" afterPath="$PROJECT_DIR$/contact.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/custom.css" afterPath="$PROJECT_DIR$/css/custom.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/skins/default.css" afterPath="$PROJECT_DIR$/css/skins/default.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/theme-elements.css" afterPath="$PROJECT_DIR$/css/theme-elements.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/theme.css" afterPath="$PROJECT_DIR$/css/theme.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/favicon.ico" afterPath="$PROJECT_DIR$/img/favicon.ico" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jobs.html" afterPath="$PROJECT_DIR$/jobs.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/portfolio.html" afterPath="$PROJECT_DIR$/portfolio.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/product.html" afterPath="$PROJECT_DIR$/product.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/reseller.html" afterPath="$PROJECT_DIR$/reseller.html" />
     </list>
     <ignored path="ycinfo.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -43,20 +25,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="jobs.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="jobs.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/jobs.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-2.909091">
-              <caret line="244" column="42" selection-start-line="244" selection-start-column="42" selection-end-line="244" selection-end-column="42" />
+            <state vertical-scroll-proportion="1.5821205">
+              <caret line="271" column="73" selection-start-line="271" selection-start-column="73" selection-end-line="271" selection-end-column="73" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="portfolio.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="portfolio.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/portfolio.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.5925156">
+            <state vertical-scroll-proportion="-5.181818">
               <caret line="138" column="67" selection-start-line="138" selection-start-column="67" selection-end-line="138" selection-end-column="67" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -166,12 +148,12 @@
         <option value="$PROJECT_DIR$/about.html" />
         <option value="$PROJECT_DIR$/buy.html" />
         <option value="$PROJECT_DIR$/contact.html" />
-        <option value="$PROJECT_DIR$/jobs.html" />
         <option value="$PROJECT_DIR$/product.html" />
         <option value="$PROJECT_DIR$/reseller.html" />
         <option value="$PROJECT_DIR$/sass/custom.scss" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/portfolio.html" />
+        <option value="$PROJECT_DIR$/jobs.html" />
       </list>
     </option>
   </component>
@@ -181,8 +163,8 @@
     <detection-done>true</detection-done>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="167" />
-    <option name="y" value="166" />
+    <option name="x" value="198" />
+    <option name="y" value="192" />
     <option name="width" value="1023" />
     <option name="height" value="656" />
   </component>
@@ -385,7 +367,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="167" y="166" width="1023" height="656" extended-state="0" />
+    <frame x="198" y="192" width="1023" height="656" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16966067" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -662,14 +644,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/jobs.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-2.909091">
-          <caret line="244" column="42" selection-start-line="244" selection-start-column="42" selection-end-line="244" selection-end-column="42" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/reseller.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="3.2727273">
@@ -704,11 +678,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/portfolio.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5925156">
+        <state vertical-scroll-proportion="-5.181818">
           <caret line="138" column="67" selection-start-line="138" selection-start-column="67" selection-end-line="138" selection-end-column="67" />
           <folding>
             <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jobs.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.5821205">
+          <caret line="271" column="73" selection-start-line="271" selection-start-column="73" selection-end-line="271" selection-end-column="73" />
+          <folding />
         </state>
       </provider>
     </entry>
