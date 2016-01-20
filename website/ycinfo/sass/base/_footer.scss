@@ -1,0 +1,164 @@
+/* #Footer */
+#footer {
+	background: $footer-bg;
+	background-image: linear-gradient(to bottom, #2e4270, #1d3365);
+	border-top: 4px solid $footer-bg;
+	font-size: 0.9em;
+	margin-top: 50px;
+	padding: 40px 0 0;
+	position: relative;
+	clear: both;
+	p {
+		color: #ffffff;
+	}
+	.container {
+		.row > div {
+			margin-bottom: 25px;
+		}
+		input:focus {
+			box-shadow: none;
+		}
+	}
+
+	a:hover {
+		color: #CCC;
+	}
+
+	h1, h2, h3, h4, a {
+		color: #FFF;
+	}
+	h4 {
+		font-size: 1.8em;
+		font-weight: 200;
+		color: #CCC;
+	}
+
+
+	.footer-ribbon {
+		background: #999;
+		position: absolute;
+		margin: side-values(-60px 0 0 14px);
+		padding: 10px 20px 6px 20px;
+		&:before {
+			border-#{$right}: 10px solid #646464;
+			border-top: 16px solid transparent;
+			content: "";
+			display: block;
+			height: 0;
+			#{$left}: -10px;
+			position: absolute;
+			top: 0;
+			width: 7px;
+		}
+		span {
+			color: #FFF;
+			font-size: 1.6em;
+			font-family: $font-primary;
+		}
+	}
+
+	.alert a {
+		color: #222;
+		&:hover {
+			color: #666;
+		}
+	}
+
+
+	.contact {
+		list-style: none;
+		margin: 0;
+		padding: 0;
+		i {
+			display: block;
+			float: $left;
+			font-size: 1.2em;
+			margin: side-values(7px 8px 10px 0);
+			position: relative;
+			text-align: center;
+			top: -2px;
+			width: 16px;
+			&.fa-envelope {
+				font-size: 1em;
+				top: 0;
+			}
+		}
+		p {
+			margin-bottom: 10px;
+		}
+	}
+
+	.logo {
+		display: block;
+		&.mb-xl {
+			margin-bottom: 12px;
+		}
+	}
+
+	.footer-copyright {
+		background: transparent;
+		margin-top: 10px;
+		padding: 10px 0;
+		p {
+			color: #5f6e90;
+			margin: 0;
+			padding: 0;
+		}
+	}
+
+
+	&.short {
+		padding-top: 50px;
+		.footer-copyright {
+			background: transparent;
+			border: 0;
+			padding-top: 0;
+			margin-top: 0;
+		}
+	}
+
+	&.light {
+		padding-top: 60px;
+		background: #FFF;
+		border-top: 1px solid #DDD;
+		.footer-ribbon {
+			margin-top: -76px;
+			margin-#{$left}: 14px;
+		}
+		.footer-copyright {
+			margin-top: 15px;
+			background: #FFF;
+			border-top: 1px solid #DDD;
+			p {
+				color: #777;	
+			}
+		}
+		.phone,
+		.twitter-account {
+			color: #777;
+		}
+		ul.nav-pills > li.active > a {
+			color: #FFF;
+		}
+	}
+
+	&.narrow {
+		padding-top: 30px;
+		.footer-copyright {
+			margin-top: 0;
+		}
+		.nav > li > a {
+			padding: 5px 12px;
+		}
+	}
+
+	&.color {
+		color: #FFF;
+		p {
+			color: #FFF;
+		}
+		.footer-copyright nav ul li {
+			border-#{$left}-color: #FFF;
+		}
+	}
+}

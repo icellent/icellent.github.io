@@ -1,0 +1,370 @@
+/* Add here all your CSS customizations */
+.hover-pulse:hover {
+  -webkit-animation-name: flash;
+  -moz-animation-name: flash;
+  -o-animation-name: flash;
+  animation-name: pulse;
+  cursor: pointer;
+}
+
+.yc-partner {
+  list-style-type: none;
+  padding-left: 15px;
+
+  li {
+    display: inline-block;
+    width: 16%;
+    margin-right: 15px;
+
+    &:last-child {
+      margin-right: 0;
+    }
+  }
+}
+
+.yc-more {
+  border-radius: 0;
+  margin-top: 15px;
+}
+
+.yc-help {
+  font-size: 1.2em;
+  color: #FFFFFF;
+  padding-top: 15px;
+  line-height: 1.875em;
+}
+
+.bottom-border {
+  border-bottom: 1px solid #8796b8;
+}
+
+.yc-plan {
+  background: #f6f6f6;
+  padding: 15px 25px;
+  position: relative;
+  margin: 15px 8px;
+
+  p {
+    font-size: 16px;
+  }
+}
+
+.yc-plan-a:before {
+  content: '';
+  position: absolute;
+  display: block;
+  background: url("../img/ribbon-a.png") no-repeat center/cover;
+  width: 90px;
+  height: 90px;
+  left: -5px;
+  top: -5px;
+}
+
+.yc-plan-b:before {
+  content: '';
+  position: absolute;
+  display: block;
+  background: url("../img/ribbon-b.png") no-repeat center/cover;
+  width: 90px;
+  height: 90px;
+  left: -5px;
+  top: -5px;
+}
+
+.yc-plan-c:before {
+  content: '';
+  position: absolute;
+  display: block;
+  background: url("../img/ribbon-c.png") no-repeat center/cover;
+  width: 90px;
+  height: 90px;
+  left: -5px;
+  top: -5px;
+}
+
+.yc-plan-d:before {
+  content: '';
+  position: absolute;
+  display: block;
+  background: url("../img/ribbon-d.png") no-repeat center/cover;
+  width: 90px;
+  height: 90px;
+  left: -5px;
+  top: -5px;
+}
+
+.yc-cs span a {
+  background-color: #4589cd;
+  display: inline-block;
+  border-radius: 50px;
+  color: #fff;
+  padding: 5px 55px;
+
+  &:hover {
+    text-decoration: none;
+  }
+}
+
+#yc-app {
+  .yc-top-border {
+    border-top: 12px solid #246dc7;
+    padding-top: 20px;
+    border-radius: 0;
+  }
+
+  li {
+    border-radius: 30px;
+    border: 2px solid #1678d3 !important;
+    &.active > a {
+      background-color: #1678d3;
+    }
+
+    a {
+      border: none;
+      background-color: transparent;
+      width: 100%;
+      color: #fff;
+      padding-left: 30px;
+      padding-right: 30px;
+      border-radius: 30px;
+      margin: 0;
+
+      &:hover {
+        background-color: #1678d3;
+      }
+    }
+  }
+}
+  /*additional section style*/
+html section.section-default-scale-9 {
+  background: #0a64b0; /* For browsers that do not support gradients */
+  background: radial-gradient(#0e74b9, #0e74b7, #092d81); /* Standard syntax */
+}
+
+/*tab style*/
+
+.tab-content {
+  border: none;
+}
+
+/* Vertical */
+.tabs-vertical {
+  display: table;
+  width: 100%;
+  padding: 0;
+  border: none;
+}
+
+.tabs-vertical .tab-content {
+  display: table-cell;
+  vertical-align: top;
+}
+
+.tabs-vertical .nav-tabs {
+  border-bottom: none;
+  display: table-cell;
+  height: 100%;
+  float: none;
+  padding: 0;
+  vertical-align: top;
+}
+
+.tabs-vertical .nav-tabs > li {
+  display: block;
+}
+
+.tabs-vertical .nav-tabs > li a {
+  display: block;
+  padding-top: 10px;
+}
+
+.tabs-vertical .nav-tabs > li a, .tabs-vertical .nav-tabs > li a:hover, .tabs-vertical .nav-tabs > li a:focus {
+  border-bottom: none;
+  border-top: none;
+}
+
+.tabs-vertical .nav-tabs > li.active a,
+.tabs-vertical .nav-tabs > li.active a:hover, .tabs-vertical .nav-tabs > li.active:focus {
+  border-top: none;
+}
+
+/* Vertical - Left Side */
+.tabs-left {
+  padding: 0;
+}
+
+.tabs-left .tab-content {
+  border-radius: 0;
+  border-left: none;
+  color: white;
+}
+
+.tabs-left .nav-tabs > li {
+  margin-right: 0;
+  color: white;
+}
+
+.tabs-left .nav-tabs > li:first-child a {
+  border-radius: 0;
+  margin-top: 20px;
+}
+
+.tabs-left .nav-tabs > li:last-child a {
+  border-radius: 0;
+  border-bottom: none;
+}
+
+.tabs-left .nav-tabs > li a {
+  border: none;
+  margin-right: 0;
+  margin-left: 0;
+  padding-left: 20px;
+  border-radius: 0;
+  background-color: #2e353e;
+}
+
+.tabs-left .nav-tabs > li a:hover {
+  border-left-color: #CCC;
+}
+
+html body .tabs .nav-tabs a {
+  color: white;
+}
+
+.tabs-left .nav-tabs > li.active a,
+.tabs-left .nav-tabs > li.active a:hover,
+.tabs-left .nav-tabs > li.active a:focus {
+  border-top-left-radius: 15px;
+  border-bottom-left-radius: 15px;
+  border: none;
+}
+
+/* Vertical - Right Side */
+.tabs-right {
+  padding: 0;
+}
+
+.tabs-right .tab-content {
+  border-radius: 0;
+  border-right: none;
+}
+
+.tabs-right .nav-tabs > li {
+  margin-left: -1px;
+}
+
+.tabs-right .nav-tabs > li:first-child a {
+  border-radius: 0;
+}
+
+.tabs-right .nav-tabs > li:last-child a {
+  border-radius: 0;
+  border-bottom: none;
+}
+
+.tabs-right .nav-tabs > li a {
+  border: none;
+  margin-right: 1px;
+  margin-left: 1px;
+}
+
+.tabs-right .nav-tabs > li a:hover {
+  border-right-color: #CCC;
+}
+
+.tabs-right .nav-tabs > li.active a,
+.tabs-right .nav-tabs > li.active a:hover,
+.tabs-right .nav-tabs > li.active a:focus {
+  border-right: 3px solid #CCC;
+  border-left: 1px solid #FFF;
+}
+
+/*portfolio list*/
+.yc-portfolio {
+  list-style-type: none;
+  padding-left: 0;
+  margin-bottom: 15px;
+
+  li {
+    float: left;
+    width: 25%;
+    padding: 15px;
+  }
+}
+
+//responsive
+@media screen and (max-width: 767px) {
+  .yc-portfolio li {
+    float: left;
+    width: 50%;
+    padding: 10px;
+  }
+}
+
+.yc-qrcode {
+  position: absolute;
+  left: 3%;
+  bottom: 10%;
+}
+
+
+/*partner grid style*/
+.custom-grid-5 {
+  list-style-type: none;
+  padding: 0;
+
+  li {
+    float: left;
+    padding: 15px 0;
+    width: 20%;
+
+    a {
+      display: block;
+      width: 85%;
+      margin-left: auto;
+      margin-right: auto;
+      opacity: .7;
+      transition: .3s all;
+
+      &:hover {
+        opacity: 1;
+      }
+    }
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .custom-grid-5 li {
+    width: 33.333%;
+  }
+  .custom-grid-5 li a {
+    width: 90%;
+  }
+}
+
+.ycinfo {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  line-height: 116px;
+  padding: 15px;
+  background-color: #0b0b0b;
+  margin: 15px auto;
+
+  &.ycinfo-1 {
+    background-color: #5c83c1;
+  }
+
+  &.ycinfo-2 {
+    background-color: #cf6dad;
+  }
+
+  &.ycinfo-3 {
+    background-color: #89c15c;
+  }
+
+  &.ycinfo-4 {
+    background-color: #5cb7ec;
+  }
+}
+
