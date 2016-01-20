@@ -1357,7 +1357,7 @@ window.theme = {};
                 $el = $('<a />')
                     .addClass(self.options.buttonClass)
                     .attr({
-                        'href': '#',
+                        'href': '#'
                     })
                     .append(
                         $('<i />')

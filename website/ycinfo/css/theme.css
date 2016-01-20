@@ -311,7 +311,7 @@ html:not(.sticky-header-active) #header.header-transparent-sticky-deactive .head
       font-size: 18px;
       font-style: normal;
       font-weight: 500;
-      line-height: 1.5;
+      line-height: 1.2;
       padding: 10px 13px;
       text-transform: uppercase; }
       #header .header-nav-main nav > ul > li > a:focus, #header .header-nav-main nav > ul > li > a:hover {
