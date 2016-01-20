@@ -2,9 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b50779fd-2d37-46ca-ae4b-faee0c20a3ef" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/favicon.ico" afterPath="$PROJECT_DIR$/img/favicon.ico" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/footer-logo.png" afterPath="$PROJECT_DIR$/img/footer-logo.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/logo.png" afterPath="$PROJECT_DIR$/img/logo.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/slides/banner-1.jpg" afterPath="$PROJECT_DIR$/img/slides/banner-1.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../.gitignore" afterPath="$PROJECT_DIR$/../../.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/about.html" afterPath="$PROJECT_DIR$/about.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/buy.html" afterPath="$PROJECT_DIR$/buy.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config.codekit" afterPath="$PROJECT_DIR$/config.codekit" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/contact.html" afterPath="$PROJECT_DIR$/contact.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jobs.html" afterPath="$PROJECT_DIR$/jobs.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/portfolio.html" afterPath="$PROJECT_DIR$/portfolio.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/product.html" afterPath="$PROJECT_DIR$/product.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/reseller.html" afterPath="$PROJECT_DIR$/reseller.html" />
     </list>
     <ignored path="ycinfo.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -28,8 +38,8 @@
       <file leaf-file-name="jobs.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/jobs.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="1.5821205">
-              <caret line="271" column="73" selection-start-line="271" selection-start-column="73" selection-end-line="271" selection-end-column="73" />
+            <state vertical-scroll-proportion="0.6692913">
+              <caret line="259" column="70" selection-start-line="259" selection-start-column="70" selection-end-line="259" selection-end-column="70" />
               <folding />
             </state>
           </provider>
@@ -39,7 +49,7 @@
         <entry file="file://$PROJECT_DIR$/portfolio.html">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="-5.181818">
-              <caret line="138" column="67" selection-start-line="138" selection-start-column="67" selection-end-line="138" selection-end-column="67" />
+              <caret line="302" column="60" selection-start-line="302" selection-start-column="60" selection-end-line="302" selection-end-column="60" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -50,8 +60,8 @@
       <file leaf-file-name="product.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/product.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-180.96428">
-              <caret line="401" column="42" selection-start-line="401" selection-start-column="42" selection-end-line="401" selection-end-column="42" />
+            <state vertical-scroll-proportion="-14.535714">
+              <caret line="408" column="60" selection-start-line="408" selection-start-column="60" selection-end-line="408" selection-end-column="60" />
               <folding />
             </state>
           </provider>
@@ -60,8 +70,8 @@
       <file leaf-file-name="reseller.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/reseller.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="3.2727273">
-              <caret line="246" column="54" selection-start-line="246" selection-start-column="54" selection-end-line="246" selection-end-column="54" />
+            <state vertical-scroll-proportion="-5.836364">
+              <caret line="250" column="60" selection-start-line="250" selection-start-column="60" selection-end-line="250" selection-end-column="60" />
               <folding />
             </state>
           </provider>
@@ -77,21 +87,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="theme-elements.scss" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sass/theme-elements.scss">
+      <file leaf-file-name="about.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/about.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-8.857142">
-              <caret line="43" column="22" selection-start-line="43" selection-start-column="22" selection-end-line="43" selection-end-column="22" />
+            <state vertical-scroll-proportion="-11.0">
+              <caret line="202" column="60" selection-start-line="202" selection-start-column="60" selection-end-line="202" selection-end-column="60" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="about.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/about.html">
+      <file leaf-file-name="crossdomain.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/crossdomain.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-2.909091">
-              <caret line="195" column="28" selection-start-line="195" selection-start-column="24" selection-end-line="195" selection-end-column="28" />
+            <state vertical-scroll-proportion="-0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -100,8 +110,8 @@
       <file leaf-file-name="buy.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/buy.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-2.909091">
-              <caret line="311" column="42" selection-start-line="311" selection-start-column="42" selection-end-line="311" selection-end-column="42" />
+            <state vertical-scroll-proportion="-5.109091">
+              <caret line="318" column="60" selection-start-line="318" selection-start-column="60" selection-end-line="318" selection-end-column="60" />
               <folding />
             </state>
           </provider>
@@ -110,8 +120,8 @@
       <file leaf-file-name="contact.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/contact.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-2.909091">
-              <caret line="172" column="42" selection-start-line="172" selection-start-column="42" selection-end-line="172" selection-end-column="42" />
+            <state vertical-scroll-proportion="-2.392857">
+              <caret line="179" column="20" selection-start-line="179" selection-start-column="20" selection-end-line="179" selection-end-column="60" />
               <folding />
             </state>
           </provider>
@@ -120,8 +130,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-2.9272728">
-              <caret line="498" column="16" selection-start-line="498" selection-start-column="16" selection-end-line="509" selection-end-column="21" />
+            <state vertical-scroll-proportion="-4.7454543">
+              <caret line="535" column="60" selection-start-line="535" selection-start-column="60" selection-end-line="535" selection-end-column="60" />
               <folding />
             </state>
           </provider>
@@ -145,14 +155,14 @@
         <option value="$PROJECT_DIR$/sass/gui/_tabs.scss" />
         <option value="$PROJECT_DIR$/sass/theme.scss" />
         <option value="$PROJECT_DIR$/sass/theme-elements.scss" />
+        <option value="$PROJECT_DIR$/sass/custom.scss" />
+        <option value="$PROJECT_DIR$/contact.html" />
         <option value="$PROJECT_DIR$/about.html" />
         <option value="$PROJECT_DIR$/buy.html" />
-        <option value="$PROJECT_DIR$/contact.html" />
-        <option value="$PROJECT_DIR$/product.html" />
-        <option value="$PROJECT_DIR$/reseller.html" />
-        <option value="$PROJECT_DIR$/sass/custom.scss" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/portfolio.html" />
+        <option value="$PROJECT_DIR$/product.html" />
+        <option value="$PROJECT_DIR$/reseller.html" />
         <option value="$PROJECT_DIR$/jobs.html" />
       </list>
     </option>
@@ -620,46 +630,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/about.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-2.909091">
-          <caret line="195" column="28" selection-start-line="195" selection-start-column="24" selection-end-line="195" selection-end-column="28" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/buy.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-2.909091">
-          <caret line="311" column="42" selection-start-line="311" selection-start-column="42" selection-end-line="311" selection-end-column="42" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/contact.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-2.909091">
-          <caret line="172" column="42" selection-start-line="172" selection-start-column="42" selection-end-line="172" selection-end-column="42" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/reseller.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="3.2727273">
-          <caret line="246" column="54" selection-start-line="246" selection-start-column="54" selection-end-line="246" selection-end-column="54" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-2.9272728">
-          <caret line="498" column="16" selection-start-line="498" selection-start-column="16" selection-end-line="509" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/sass/custom.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-10.0">
@@ -668,10 +638,42 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/product.html">
+    <entry file="file://$PROJECT_DIR$/crossdomain.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-180.96428">
-          <caret line="401" column="42" selection-start-line="401" selection-start-column="42" selection-end-line="401" selection-end-column="42" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/about.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-11.0">
+          <caret line="202" column="60" selection-start-line="202" selection-start-column="60" selection-end-line="202" selection-end-column="60" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/buy.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.109091">
+          <caret line="318" column="60" selection-start-line="318" selection-start-column="60" selection-end-line="318" selection-end-column="60" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contact.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.392857">
+          <caret line="179" column="20" selection-start-line="179" selection-start-column="20" selection-end-line="179" selection-end-column="60" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-4.7454543">
+          <caret line="535" column="60" selection-start-line="535" selection-start-column="60" selection-end-line="535" selection-end-column="60" />
           <folding />
         </state>
       </provider>
@@ -679,17 +681,33 @@
     <entry file="file://$PROJECT_DIR$/portfolio.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-5.181818">
-          <caret line="138" column="67" selection-start-line="138" selection-start-column="67" selection-end-line="138" selection-end-column="67" />
+          <caret line="302" column="60" selection-start-line="302" selection-start-column="60" selection-end-line="302" selection-end-column="60" />
           <folding>
             <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/product.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-14.535714">
+          <caret line="408" column="60" selection-start-line="408" selection-start-column="60" selection-end-line="408" selection-end-column="60" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reseller.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.836364">
+          <caret line="250" column="60" selection-start-line="250" selection-start-column="60" selection-end-line="250" selection-end-column="60" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/jobs.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.5821205">
-          <caret line="271" column="73" selection-start-line="271" selection-start-column="73" selection-end-line="271" selection-end-column="73" />
+        <state vertical-scroll-proportion="0.6692913">
+          <caret line="259" column="70" selection-start-line="259" selection-start-column="70" selection-end-line="259" selection-end-column="70" />
           <folding />
         </state>
       </provider>
