@@ -74,9 +74,8 @@ BubbleShoot.Game = (function ($) {
                 var bubble = this;
                 board.popBubbleAt(bubble.getRow(), bubble.getCol());
                 setTimeout(function () {
-                    bubble.getSprite().animate({
-                        top: 1000
-                    }, 1000);
+                    bubble.getSprite().kaboom();
+                    console.log(bubble.getSprite().kaboom());
                 }, delay);
             })
         }

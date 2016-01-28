@@ -73,7 +73,6 @@ BubbleShoot.Board = (function ($) {
             var rows = that.getRows();
             for (var i = 0; i < rows.length; i++) {
                 connected[i] = [];
-                console.log(connected[i]);
             }
 
             for (i = 0; i < rows[0].length; i++) {
